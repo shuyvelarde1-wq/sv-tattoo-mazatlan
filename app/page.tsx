@@ -432,7 +432,7 @@ console.log("selectedProject:", selectedProject)
                 className="w-full h-full object-cover transition duration-700 group-hover:scale-110"
               />
 
-              <div className="absolute inset-0 bg-black/0 group-hover:bg-black/70 transition duration-500" />
+              <div className="absolute inset-0 bg-black/40 group-hover:bg-black/70 transition duration-500" />
 
               <div className="absolute inset-0 flex flex-col justify-end p-6 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition duration-500">
                 <h3 className="text-3xl font-bold">
