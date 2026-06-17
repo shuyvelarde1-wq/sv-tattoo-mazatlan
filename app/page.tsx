@@ -717,6 +717,34 @@ console.log("selectedProject:", selectedProject)
           >
             📲 Agendar por WhatsApp
           </a>
+          
+          <div className="flex flex-col md:flex-row gap-4 justify-center mt-8">
+
+  <a
+    href="https://instagram.com/shuyvelardetattoos"
+    target="_blank"
+    className="bg-zinc-900 hover:bg-zinc-800 px-6 py-4 rounded-2xl transition"
+  >
+    📸 Instagram
+  </a>
+
+  <a
+    href="https://www.facebook.com/ShuyVelardeTattoos/"
+    target="_blank"
+    className="bg-zinc-900 hover:bg-zinc-800 px-6 py-4 rounded-2xl transition"
+  >
+    👍 Facebook
+  </a>
+
+  <a
+    href="https://maps.app.goo.gl/xXzWcxHzW4BSeSqn9"
+    target="_blank"
+    className="bg-zinc-900 hover:bg-zinc-800 px-6 py-4 rounded-2xl transition"
+  >
+    📍 Cómo llegar
+  </a>
+
+</div>
 
         </div>
 
@@ -739,16 +767,6 @@ console.log("selectedProject:", selectedProject)
 
             <div>
               <h3 className="text-6xl font-bold text-white">
-                +200
-              </h3>
-
-              <p className="mt-3 text-zinc-400 uppercase tracking-widest text-sm">
-                Clientes satisfechos
-              </p>
-            </div>
-
-            <div>
-              <h3 className="text-6xl font-bold text-white">
                 8+
               </h3>
 
@@ -756,6 +774,14 @@ console.log("selectedProject:", selectedProject)
                 Años de experiencia
               </p>
             </div>
+
+            <h3 className="text-6xl font-bold text-white">
+  100%
+</h3>
+
+<p className="mt-3 text-zinc-400 uppercase tracking-widest text-sm">
+  Solo por cita
+</p>
 
           </div>
 
