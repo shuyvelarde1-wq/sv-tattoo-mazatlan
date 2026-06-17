@@ -775,13 +775,19 @@ console.log("selectedProject:", selectedProject)
               </p>
             </div>
 
-            <h3 className="text-6xl font-bold text-white">
-  100%
-</h3>
+            <div className="text-center">
+  <h3 className="text-6xl font-bold text-white">
+    100%
+  </h3>
 
-<p className="mt-3 text-zinc-400 uppercase tracking-widest text-sm">
-  Solo por cita
-</p>
+  <p className="mt-3 text-zinc-400 uppercase tracking-widest text-sm">
+    Atención personalizada
+  </p>
+
+  <p className="mt-2 text-zinc-500 text-xs uppercase tracking-[0.3em]">
+    Solo por cita
+  </p>
+</div>
 
           </div>
 
